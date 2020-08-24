@@ -15,5 +15,8 @@ Le notebook EDA_notebook a pour objectif de d'analyse exploratoire de données:
 * Représentation visuelle de nombre de tests soit positifs soit négatifs par state par tranche d'age en utilisant des 
 (graphiques, histogrammes, pies, maps)
 
+<<<<<<< HEAD
 Notices:
 Pour installer les libraries: Vous pourrez soit les installer directement via jupyter ou via cmd commande pythom -m pip install your_folder_path/requirements.txt
+=======
+>>>>>>> 22bdda3a21110272ed22ea72cafde12d346e85f6
