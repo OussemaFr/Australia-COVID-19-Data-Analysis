@@ -14,8 +14,3 @@ Le notebook EDA_notebook a pour objectif de d'analyse exploratoire de données:
 * Représentation visuelle de nombre de tests soit positifs soit négatifs par state par tranche d'age en utilisant des 
 (graphiques, histogrammes, pies, maps)
 
-Le notebook Dedupe_open_source a pour objectif de tester la librairie pandas_dedupe qui consiste a detecter des doubland en utilisant du ML:
-Réf: https://pypi.org/project/pandas-dedupe/
- 
-* Import cleaned patient data 
-* Application de la fonction dedupe pour la suppression des doublons et estimation du pourcentage des doublons
