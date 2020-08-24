@@ -19,12 +19,3 @@ Réf: https://pypi.org/project/pandas-dedupe/
  
 * Import cleaned patient data 
 * Application de la fonction dedupe pour la suppression des doublons et estimation du pourcentage des doublons
-
-- Faire un notebook jupyter d'analyse exploratoire de données
-(EDA exploratory data analysis). Il est demandé de représenter
-visuellement (graphiques, histogrammes, etc.). Ce notebook
-devra utiliser le dataframe `df_patient` après la déduplication
-utilisant la fonction `detect_duplicates`. Vous ferez
-la jointure entre les dataframes `df_patient` et `df_pcr`
-afin de répresenter et discuter la prévalence de la maladie
-dans la population.
