@@ -1,0 +1,5 @@
+fuzzywuzzy
+tqdm
+ipytest
+seaborn
+folium
