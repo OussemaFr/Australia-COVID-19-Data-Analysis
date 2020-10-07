@@ -1,5 +1,3 @@
-# Exercice d'évaluation pour le poste Inria / AP-HP
-
 Le notebook Deduplicates_notebook a pour objectif de : 
 * Mettre en évidence les problèmes de qualité de données 
 * Cleaning des données en se basant soit sur des données de l'australie recupéré du Wikipedia 
